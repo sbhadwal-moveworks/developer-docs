@@ -1,6 +1,6 @@
 # Plugin Library
 
-Welcome to the source for our [Plugin Library](https://developer.moveworks.com/creator-studio/plugin-library/). It helps you discover and add new plugins to your copilot.
+elcome to the source for our [Plugin Library](https://developer.moveworks.com/creator-studio/plugin-library/). It helps you discover and add new plugins to your copilot.
 
 In the Plugin Library, you will find...
 
